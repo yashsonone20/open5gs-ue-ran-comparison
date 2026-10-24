@@ -1,0 +1,122 @@
+UERANSIM v3.3.0
+[2026-10-24 14:00:51.335] [999700000000004|nas] [info] UE switches to state [MM-DEREGISTERED/PLMN-SEARCH]
+[2026-10-24 14:00:51.336] [999700000000004|rrc] [debug] New signal detected for cell[1], total [1] cells in coverage
+[2026-10-24 14:00:51.336] [999700000000003|nas] [info] UE switches to state [MM-DEREGISTERED/PLMN-SEARCH]
+[2026-10-24 14:00:51.337] [999700000000004|nas] [info] Selected plmn[999/70]
+[2026-10-24 14:00:51.337] [999700000000004|rrc] [info] Selected cell plmn[999/70] tac[1] category[SUITABLE]
+[2026-10-24 14:00:51.338] [999700000000004|nas] [info] UE switches to state [MM-DEREGISTERED/PS]
+[2026-10-24 14:00:51.338] [999700000000004|nas] [info] UE switches to state [MM-DEREGISTERED/NORMAL-SERVICE]
+[2026-10-24 14:00:51.338] [999700000000004|nas] [debug] Initial registration required due to [MM-DEREG-NORMAL-SERVICE]
+[2026-10-24 14:00:51.338] [999700000000004|nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2026-10-24 14:00:51.338] [999700000000004|nas] [debug] Sending Initial Registration
+[2026-10-24 14:00:51.338] [999700000000004|nas] [info] UE switches to state [MM-REGISTER-INITIATED]
+[2026-10-24 14:00:51.338] [999700000000002|nas] [info] UE switches to state [MM-DEREGISTERED/PLMN-SEARCH]
+[2026-10-24 14:00:51.338] [999700000000004|rrc] [debug] Sending RRC Setup Request
+[2026-10-24 14:00:51.338] [999700000000003|rrc] [debug] New signal detected for cell[1], total [1] cells in coverage
+[2026-10-24 14:00:51.338] [999700000000003|nas] [info] Selected plmn[999/70]
+[2026-10-24 14:00:51.339] [999700000000003|rrc] [info] Selected cell plmn[999/70] tac[1] category[SUITABLE]
+[2026-10-24 14:00:51.339] [999700000000003|nas] [info] UE switches to state [MM-DEREGISTERED/PS]
+[2026-10-24 14:00:51.339] [999700000000003|nas] [info] UE switches to state [MM-DEREGISTERED/NORMAL-SERVICE]
+[2026-10-24 14:00:51.339] [999700000000003|nas] [debug] Initial registration required due to [MM-DEREG-NORMAL-SERVICE]
+[2026-10-24 14:00:51.339] [999700000000003|nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2026-10-24 14:00:51.339] [999700000000003|nas] [debug] Sending Initial Registration
+[2026-10-24 14:00:51.339] [999700000000001|nas] [info] UE switches to state [MM-DEREGISTERED/PLMN-SEARCH]
+[2026-10-24 14:00:51.339] [999700000000003|nas] [info] UE switches to state [MM-REGISTER-INITIATED]
+[2026-10-24 14:00:51.339] [999700000000003|rrc] [debug] Sending RRC Setup Request
+[2026-10-24 14:00:51.339] [999700000000002|rrc] [debug] New signal detected for cell[1], total [1] cells in coverage
+[2026-10-24 14:00:51.339] [999700000000004|rrc] [info] RRC connection established
+[2026-10-24 14:00:51.339] [999700000000004|rrc] [info] UE switches to state [RRC-CONNECTED]
+[2026-10-24 14:00:51.340] [999700000000004|nas] [info] UE switches to state [CM-CONNECTED]
+[2026-10-24 14:00:51.340] [999700000000002|nas] [info] Selected plmn[999/70]
+[2026-10-24 14:00:51.340] [999700000000002|rrc] [info] Selected cell plmn[999/70] tac[1] category[SUITABLE]
+[2026-10-24 14:00:51.340] [999700000000002|nas] [info] UE switches to state [MM-DEREGISTERED/PS]
+[2026-10-24 14:00:51.340] [999700000000002|nas] [info] UE switches to state [MM-DEREGISTERED/NORMAL-SERVICE]
+[2026-10-24 14:00:51.340] [999700000000002|nas] [debug] Initial registration required due to [MM-DEREG-NORMAL-SERVICE]
+[2026-10-24 14:00:51.340] [999700000000002|nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2026-10-24 14:00:51.340] [999700000000002|nas] [debug] Sending Initial Registration
+[2026-10-24 14:00:51.340] [999700000000001|rrc] [debug] New signal detected for cell[1], total [1] cells in coverage
+[2026-10-24 14:00:51.340] [999700000000002|rrc] [debug] Sending RRC Setup Request
+[2026-10-24 14:00:51.340] [999700000000002|nas] [info] UE switches to state [MM-REGISTER-INITIATED]
+[2026-10-24 14:00:51.340] [999700000000003|rrc] [info] RRC connection established
+[2026-10-24 14:00:51.340] [999700000000003|rrc] [info] UE switches to state [RRC-CONNECTED]
+[2026-10-24 14:00:51.340] [999700000000001|nas] [info] Selected plmn[999/70]
+[2026-10-24 14:00:51.340] [999700000000003|nas] [info] UE switches to state [CM-CONNECTED]
+[2026-10-24 14:00:51.341] [999700000000001|rrc] [info] Selected cell plmn[999/70] tac[1] category[SUITABLE]
+[2026-10-24 14:00:51.341] [999700000000001|nas] [info] UE switches to state [MM-DEREGISTERED/PS]
+[2026-10-24 14:00:51.341] [999700000000001|nas] [info] UE switches to state [MM-DEREGISTERED/NORMAL-SERVICE]
+[2026-10-24 14:00:51.341] [999700000000001|nas] [debug] Initial registration required due to [MM-DEREG-NORMAL-SERVICE]
+[2026-10-24 14:00:51.341] [999700000000001|nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2026-10-24 14:00:51.341] [999700000000001|nas] [debug] Sending Initial Registration
+[2026-10-24 14:00:51.341] [999700000000001|nas] [info] UE switches to state [MM-REGISTER-INITIATED]
+[2026-10-24 14:00:51.341] [999700000000001|rrc] [debug] Sending RRC Setup Request
+[2026-10-24 14:00:51.341] [999700000000002|rrc] [info] RRC connection established
+[2026-10-24 14:00:51.341] [999700000000002|rrc] [info] UE switches to state [RRC-CONNECTED]
+[2026-10-24 14:00:51.341] [999700000000002|nas] [info] UE switches to state [CM-CONNECTED]
+[2026-10-24 14:00:51.342] [999700000000001|rrc] [info] RRC connection established
+[2026-10-24 14:00:51.342] [999700000000001|rrc] [info] UE switches to state [RRC-CONNECTED]
+[2026-10-24 14:00:51.342] [999700000000001|nas] [info] UE switches to state [CM-CONNECTED]
+[2026-10-24 14:00:51.355] [999700000000004|nas] [debug] Authentication Request received
+[2026-10-24 14:00:51.355] [999700000000004|nas] [debug] Received SQN [000000000181]
+[2026-10-24 14:00:51.355] [999700000000004|nas] [debug] SQN-MS [000000000000]
+[2026-10-24 14:00:51.365] [999700000000003|nas] [debug] Authentication Request received
+[2026-10-24 14:00:51.365] [999700000000003|nas] [debug] Received SQN [000000000181]
+[2026-10-24 14:00:51.365] [999700000000003|nas] [debug] SQN-MS [000000000000]
+[2026-10-24 14:00:51.375] [999700000000004|nas] [debug] Security Mode Command received
+[2026-10-24 14:00:51.375] [999700000000004|nas] [debug] Selected integrity[2] ciphering[0]
+[2026-10-24 14:00:51.378] [999700000000002|nas] [debug] Authentication Request received
+[2026-10-24 14:00:51.378] [999700000000002|nas] [debug] Received SQN [000000000181]
+[2026-10-24 14:00:51.378] [999700000000002|nas] [debug] SQN-MS [000000000000]
+[2026-10-24 14:00:51.379] [999700000000001|nas] [debug] Authentication Request received
+[2026-10-24 14:00:51.379] [999700000000001|nas] [debug] Received SQN [0000000006C1]
+[2026-10-24 14:00:51.379] [999700000000001|nas] [debug] SQN-MS [000000000000]
+[2026-10-24 14:00:51.383] [999700000000003|nas] [debug] Security Mode Command received
+[2026-10-24 14:00:51.383] [999700000000003|nas] [debug] Selected integrity[2] ciphering[0]
+[2026-10-24 14:00:51.385] [999700000000002|nas] [debug] Security Mode Command received
+[2026-10-24 14:00:51.385] [999700000000002|nas] [debug] Selected integrity[2] ciphering[0]
+[2026-10-24 14:00:51.390] [999700000000001|nas] [debug] Security Mode Command received
+[2026-10-24 14:00:51.390] [999700000000001|nas] [debug] Selected integrity[2] ciphering[0]
+[2026-10-24 14:00:51.402] [999700000000004|nas] [debug] Registration accept received
+[2026-10-24 14:00:51.402] [999700000000004|nas] [info] UE switches to state [MM-REGISTERED/NORMAL-SERVICE]
+[2026-10-24 14:00:51.402] [999700000000004|nas] [debug] Sending Registration Complete
+[2026-10-24 14:00:51.403] [999700000000004|nas] [info] Initial Registration is successful
+[2026-10-24 14:00:51.403] [999700000000004|nas] [debug] Sending PDU Session Establishment Request
+[2026-10-24 14:00:51.403] [999700000000004|nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2026-10-24 14:00:51.409] [999700000000003|nas] [debug] Registration accept received
+[2026-10-24 14:00:51.409] [999700000000003|nas] [info] UE switches to state [MM-REGISTERED/NORMAL-SERVICE]
+[2026-10-24 14:00:51.409] [999700000000003|nas] [debug] Sending Registration Complete
+[2026-10-24 14:00:51.409] [999700000000003|nas] [info] Initial Registration is successful
+[2026-10-24 14:00:51.409] [999700000000003|nas] [debug] Sending PDU Session Establishment Request
+[2026-10-24 14:00:51.409] [999700000000003|nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2026-10-24 14:00:51.409] [999700000000002|nas] [debug] Registration accept received
+[2026-10-24 14:00:51.409] [999700000000002|nas] [info] UE switches to state [MM-REGISTERED/NORMAL-SERVICE]
+[2026-10-24 14:00:51.409] [999700000000002|nas] [debug] Sending Registration Complete
+[2026-10-24 14:00:51.409] [999700000000002|nas] [info] Initial Registration is successful
+[2026-10-24 14:00:51.409] [999700000000002|nas] [debug] Sending PDU Session Establishment Request
+[2026-10-24 14:00:51.409] [999700000000002|nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2026-10-24 14:00:51.410] [999700000000004|nas] [debug] Configuration Update Command received
+[2026-10-24 14:00:51.419] [999700000000001|nas] [debug] Registration accept received
+[2026-10-24 14:00:51.419] [999700000000001|nas] [info] UE switches to state [MM-REGISTERED/NORMAL-SERVICE]
+[2026-10-24 14:00:51.419] [999700000000001|nas] [debug] Sending Registration Complete
+[2026-10-24 14:00:51.419] [999700000000001|nas] [info] Initial Registration is successful
+[2026-10-24 14:00:51.419] [999700000000001|nas] [debug] Sending PDU Session Establishment Request
+[2026-10-24 14:00:51.419] [999700000000001|nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2026-10-24 14:00:51.420] [999700000000003|nas] [debug] Configuration Update Command received
+[2026-10-24 14:00:51.420] [999700000000002|nas] [debug] Configuration Update Command received
+[2026-10-24 14:00:51.421] [999700000000001|nas] [debug] Configuration Update Command received
+[2026-10-24 14:00:51.423] [999700000000004|nas] [debug] PDU Session Establishment Accept received
+[2026-10-24 14:00:51.424] [999700000000004|nas] [info] PDU Session establishment is successful PSI[1]
+Cannot open network namespace "ueransim-999700000000004-internet-psi1": No such file or directory
+[2026-10-24 14:00:51.444] [999700000000003|nas] [debug] PDU Session Establishment Accept received
+[2026-10-24 14:00:51.444] [999700000000003|nas] [info] PDU Session establishment is successful PSI[1]
+[2026-10-24 14:00:51.445] [999700000000002|nas] [debug] PDU Session Establishment Accept received
+[2026-10-24 14:00:51.445] [999700000000002|nas] [info] PDU Session establishment is successful PSI[1]
+[2026-10-24 14:00:51.445] [999700000000001|nas] [debug] PDU Session Establishment Accept received
+[2026-10-24 14:00:51.445] [999700000000001|nas] [info] PDU Session establishment is successful PSI[1]
+[2026-10-24 14:00:51.541] [999700000000004|app] [info] Connection setup for PDU session[1] is successful, TUN interface[uesimtun0, 10.45.0.63] is up in namespace[ueransim-999700000000004-internet-psi1].
+Cannot open network namespace "ueransim-999700000000002-internet-psi1": No such file or directory
+[2026-10-24 14:00:51.658] [999700000000002|app] [info] Connection setup for PDU session[1] is successful, TUN interface[uesimtun0, 10.45.0.65] is up in namespace[ueransim-999700000000002-internet-psi1].
+Cannot open network namespace "ueransim-999700000000003-internet-psi1": No such file or directory
+[2026-10-24 14:00:51.759] [999700000000003|app] [info] Connection setup for PDU session[1] is successful, TUN interface[uesimtun0, 10.45.0.64] is up in namespace[ueransim-999700000000003-internet-psi1].
+Cannot open network namespace "ueransim-999700000000001-internet-psi1": No such file or directory
+[2026-10-24 14:00:51.859] [999700000000001|app] [info] Connection setup for PDU session[1] is successful, TUN interface[uesimtun0, 10.45.0.66] is up in namespace[ueransim-999700000000001-internet-psi1].
+[2026-10-24 14:01:26.640] [999700000000004|app] [error] TUN failure [TUN device could not read (Bad address)]

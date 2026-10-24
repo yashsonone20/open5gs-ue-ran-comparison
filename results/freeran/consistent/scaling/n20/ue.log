@@ -1,0 +1,500 @@
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000129
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000117
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000116
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000125
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000126
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000121
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000127
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000122
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000112
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000110
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000111
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000128
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000120
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000113
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000118
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000119
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000123
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000124
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000114
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000115
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:22:00 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.136
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000120 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun10
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.137
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000121 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun11
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.138
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000126 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.141
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000128 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.139
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.140
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000127 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000125 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun16
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun17
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun18
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun15
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.142
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000110 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun0
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.146
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.147
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000115 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.145
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.144
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.143
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.148
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000114 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000122 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000112 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000129 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000119 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.149
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000123 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.153
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000118 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun5
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun12
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.151
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000124 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.152
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000117 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.150
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000116 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun9
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun2
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun4
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun8
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun19
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun6
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun13
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun7
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun14
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.154
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000113 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.155
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:22:01 [36m[INFO][36m[UE][PDU][0m UE 999700000000111 PDU session establishment complete
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun3
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:01 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun1
+2026/10/24 15:22:01 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:22:01 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000111
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000120
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000121
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000114
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000112
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000118
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000129
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000126
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000127
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000116
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000128
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000125
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000123
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000110
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000117
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000115
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000124
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000122
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000113
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000119
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][UE][0m Error processing UE deregistration: error read NAS UE Deregistration Accept: EOF
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][UE][0m Error processing UE deregistration: error read NAS UE Deregistration Accept: EOF
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][UE][0m Error processing UE deregistration: error read NAS UE Deregistration Accept: EOF
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][UE][0m Error processing UE deregistration: error read NAS UE Deregistration Accept: EOF
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][UE][0m Error processing UE deregistration: error read NAS UE Deregistration Accept: EOF
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped
+2026/10/24 15:22:37 [36m[INFO][36m[UE][UE][0m UE stopped

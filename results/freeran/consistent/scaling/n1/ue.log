@@ -1,0 +1,25 @@
+2026/10/24 15:19:03 [36m[INFO][36m[UE][UE][0m Starting UE: imsi-999700000000110
+2026/10/24 15:19:03 [36m[INFO][36m[UE][RAN][0m Connecting to RAN control plane
+2026/10/24 15:19:03 [36m[INFO][36m[UE][RAN][0m Connected to RAN control plane: 10.202.1.1:31413
+2026/10/24 15:19:03 [36m[INFO][36m[UE][RAN][0m Processing UE Registration
+2026/10/24 15:19:03 [36m[INFO][36m[UE][RAN][0m UE Registration finished
+2026/10/24 15:19:03 [36m[INFO][36m[UE][PDU][0m Processing PDU session establishment
+2026/10/24 15:19:03 [36m[INFO][36m[UE][PDU][0m PDU session UE IP: 10.45.0.121
+2026/10/24 15:19:03 [36m[INFO][36m[UE][PDU][0m PDU session QoS rule: []
+2026/10/24 15:19:03 [36m[INFO][36m[UE][PDU][0m PDU session DNN: internet
+2026/10/24 15:19:03 [36m[INFO][36m[UE][PDU][0m PDU session SNSSAI, sst: 1, sd: 000
+2026/10/24 15:19:03 [36m[INFO][36m[UE][PDU][0m UE 999700000000110 PDU session establishment complete
+2026/10/24 15:19:03 [36m[INFO][36m[UE][RAN][0m Connecting to RAN data plane
+2026/10/24 15:19:03 [36m[INFO][36m[UE][RAN][0m Connected to RAN data plane: 10.202.1.1:31414
+2026/10/24 15:19:03 [36m[INFO][36m[UE][TUN][0m Setting up UE tunnel device
+2026/10/24 15:19:03 [36m[INFO][36m[UE][TUN][0m UE tunnel device setup as ueTun0
+2026/10/24 15:19:03 [36m[INFO][36m[UE][UE][0m UE started
+2026/10/24 15:19:03 [36m[INFO][36m[UE][RAN][0m Waiting for RAN message
+2026/10/24 15:19:38 [36m[INFO][36m[UE][RAN][0m Stop waiting for RAN message
+2026/10/24 15:19:38 [36m[INFO][36m[UE][UE][0m Stopping UE: imsi-999700000000110
+2026/10/24 15:19:38 [36m[INFO][36m[UE][RAN][0m Processing UE deregistration
+2026/10/24 15:19:38 [36m[INFO][36m[UE][RAN][0m UE deregistration complete
+2026/10/24 15:19:38 [36m[INFO][36m[UE][TUN][0m Cleaning up UE tunnel device
+2026/10/24 15:19:38 [31m[EROR][36m[UE][TUN][0m Error read from ue tunnel device: read tun: file descriptor in bad state
+2026/10/24 15:19:38 [36m[INFO][36m[UE][TUN][0m UE tunnel device cleaned up
+2026/10/24 15:19:38 [36m[INFO][36m[UE][UE][0m UE stopped

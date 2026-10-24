@@ -1,0 +1,31 @@
+gnb:
+  amfN2Ip: 127.0.0.5
+  ranN2Ip: 127.0.0.30
+  upfN3Ip: 127.0.0.7
+  ranN3Ip: 127.0.0.30
+  ranControlPlaneIp: 10.202.1.1
+  ranDataPlaneIp: 10.202.1.1
+  amfN2Port: 38412
+  ranN2Port: 38413
+  upfN3Port: 2152
+  ranN3Port: 2152
+  ranControlPlanePort: 31413
+  ranDataPlanePort: 31414
+  gnbId: "000314"
+  gnbName: "gNB"
+  plmnId:
+    mcc: "999"
+    mnc: "70"
+  tai:
+    tac: "000001"
+    broadcastPlmnId:
+      mcc: "999"
+      mnc: "70"
+  snssai:
+    sst: "1"
+    sd: "ffffff"
+  api:
+    ip: 127.0.0.30
+    port: 40104
+logger:
+  level: "info"

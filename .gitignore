@@ -1,0 +1,4 @@
+analysis_out*/
+__pycache__/
+*.pyc
+*.zip

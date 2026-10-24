@@ -1,0 +1,22 @@
+time (s)   | proto    | source -> destination           | message
+3.3057     | NGAP/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | InitialUEMessage, Registration request [RRCEstablishmentCause=mo-Signalling]
+3.3201     | PFCP     | 127.0.0.4       -> 127.0.0.7     | PFCP Heartbeat Request
+3.3203     | PFCP     | 127.0.0.7       -> 127.0.0.4     | PFCP Heartbeat Response
+3.3204     | PFCP     | 127.0.0.7       -> 127.0.0.4     | PFCP Heartbeat Request
+3.3205     | PFCP     | 127.0.0.4       -> 127.0.0.7     | PFCP Heartbeat Response
+3.3431     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | SACK (Ack=0, Arwnd=106496) , DownlinkNASTransport, Authentication request
+3.3655     | NGAP/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | SACK (Ack=0, Arwnd=106496) , UplinkNASTransport, Authentication response
+3.3810     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | SACK (Ack=1, Arwnd=106496) , DownlinkNASTransport, Security mode command
+3.4049     | NGAP/NAS-5GS/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | SACK (Ack=1, Arwnd=106496) , UplinkNASTransport, Security mode complete, Registration request
+3.4307     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | SACK (Ack=2, Arwnd=106496) , InitialContextSetupRequest, Registration accept
+3.4884     | NGAP     | 127.0.0.1       -> 127.0.0.5     | SACK (Ack=2, Arwnd=106496) , UERadioCapabilityInfoIndication
+3.4884     | NGAP     | 127.0.0.1       -> 127.0.0.5     | InitialContextSetupResponse
+3.5150     | NGAP/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | UplinkNASTransport, Registration complete
+3.5152     | NGAP/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | UplinkNASTransport, UL NAS transport, PDU session establishment request
+3.5159     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | DownlinkNASTransport, Configuration update command
+3.5412     | PFCP     | 127.0.0.4       -> 127.0.0.7     | PFCP Session Establishment Request
+3.5459     | PFCP     | 127.0.0.7       -> 127.0.0.4     | PFCP Session Establishment Response
+3.5494     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | PDUSessionResourceSetupRequest, DL NAS transport, PDU session establishment accept
+3.5761     | NGAP     | 127.0.0.1       -> 127.0.0.5     | PDUSessionResourceSetupResponse
+3.5781     | PFCP     | 127.0.0.4       -> 127.0.0.7     | PFCP Session Modification Request
+3.5783     | PFCP     | 127.0.0.7       -> 127.0.0.4     | PFCP Session Modification Response

@@ -1,0 +1,20 @@
+time (s)   | proto    | source -> destination           | message
+0.5284     | PFCP     | 127.0.0.3       -> 127.0.0.6     | PFCP Heartbeat Request
+0.5287     | PFCP     | 127.0.0.6       -> 127.0.0.3     | PFCP Heartbeat Response
+0.5288     | PFCP     | 127.0.0.6       -> 127.0.0.3     | PFCP Heartbeat Request
+0.5290     | PFCP     | 127.0.0.3       -> 127.0.0.6     | PFCP Heartbeat Response
+1.4936     | NGAP/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | InitialUEMessage, Registration request [RRCEstablishmentCause=mo-Signalling]
+1.5013     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | SACK (Ack=0, Arwnd=106496) , DownlinkNASTransport, Authentication request
+1.5026     | NGAP/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | SACK (Ack=0, Arwnd=106496) , UplinkNASTransport, Authentication response
+1.5099     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | SACK (Ack=1, Arwnd=106496) , DownlinkNASTransport, Security mode command
+1.5114     | NGAP/NAS-5GS/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | SACK (Ack=1, Arwnd=106496) , UplinkNASTransport, Security mode complete, Registration request
+1.5247     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | SACK (Ack=2, Arwnd=106496) , InitialContextSetupRequest, Registration accept
+1.5251     | NGAP     | 127.0.0.1       -> 127.0.0.5     | SACK (Ack=2, Arwnd=106496) , InitialContextSetupResponse
+1.7280     | NGAP/NAS-5GS | 127.0.0.1       -> 127.0.0.5     | UplinkNASTransport, Registration complete, UplinkNASTransport, UL NAS transport, PDU session establishment request
+1.7285     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | SACK (Ack=5, Arwnd=106496) , DownlinkNASTransport, Configuration update command
+1.7388     | PFCP     | 127.0.0.4       -> 127.0.0.7     | PFCP Session Establishment Request
+1.7395     | PFCP     | 127.0.0.7       -> 127.0.0.4     | PFCP Session Establishment Response
+1.7408     | NGAP/NAS-5GS | 127.0.0.5       -> 127.0.0.1     | PDUSessionResourceSetupRequest, DL NAS transport, PDU session establishment accept
+1.7417     | NGAP     | 127.0.0.1       -> 127.0.0.5     | PDUSessionResourceSetupResponse
+1.7424     | PFCP     | 127.0.0.4       -> 127.0.0.7     | PFCP Session Modification Request
+1.7426     | PFCP     | 127.0.0.7       -> 127.0.0.4     | PFCP Session Modification Response
