@@ -1,0 +1,817 @@
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 427/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2613/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 430/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.4+1.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2631/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 432/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2646/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 434/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 23.0+3.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2662/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 437/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.3+2.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2677/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 440/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2696/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.8 (+1.8) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 442/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2711/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.8 (+1.8) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 445/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.5+1.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2727/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 447/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2743/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 55 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 450/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.5+1.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2762/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 452/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2778/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 455/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.5+1.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2793/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.2 (+2.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 457/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2810/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 460/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.5+1.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2828/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 463/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2843/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 465/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2859/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 467/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.4+2.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2874/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 470/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2893/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 473/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.3+1.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2908/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 475/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.6+2.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2924/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 477/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.7+2.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2939/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 479/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.9+2.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2955/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 484/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2976/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 486/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.8+2.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 2991/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 488/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.8+2.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3007/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 491/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3022/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 494/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3041/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 496/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3056/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 498/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.3+2.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3072/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 501/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3087/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 504/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3105/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 506/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.3+2.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3121/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 509/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3136/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 511/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3152/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 514/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3170/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 516/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3185/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 519/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3201/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 521/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3217/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 524/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3236/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 527/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.2+1.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3251/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 529/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3268/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 531/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.9+2.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3283/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 534/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3301/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.2 (+2.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 537/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.5+1.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3317/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 539/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3332/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 541/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.3+2.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3348/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 544/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.4+2.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3366/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 547/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3382/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 549/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3398/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 551/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 23.2+3.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3414/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 55 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 555/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.5+1.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3433/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 16 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 557/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3449/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 559/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3465/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.8 (+1.8) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 561/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.4+2.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3480/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 564/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3499/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 567/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3515/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 569/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.4+2.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3530/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 572/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3546/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 574/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3562/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 577/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3581/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.8 (+1.8) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 579/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3596/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.8 (+1.8) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 582/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3612/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 584/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3627/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 587/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3645/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 590/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.2+1.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3661/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.8 (+1.8) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 592/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3676/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 594/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.9+2.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3692/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 597/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3711/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 600/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3727/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.8 (+1.8) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 602/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3742/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 604/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.3+2.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3758/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 607/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.5+2.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3776/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 610/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3791/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 612/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3807/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 614/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 23.2+3.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3822/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 618/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3840/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.2 (+2.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 620/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3856/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 622/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3872/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 624/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.5+2.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3887/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 628/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3905/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.2 (+2.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 630/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3921/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 632/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.4+2.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3936/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 635/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3952/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 638/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.3+1.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3970/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 640/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 3986/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 642/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4002/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 645/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4017/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 648/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.2+1.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4036/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.3 (+2.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 650/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4051/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 653/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.2+1.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4067/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 655/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4082/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 657/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4099/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 660/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4117/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 663/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4132/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 665/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.3+2.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4148/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 667/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.5+2.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4163/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 670/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4182/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 673/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.5+2.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4198/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 675/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.6+2.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4213/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -44 (16 meas)
+UE 727a: dlsch_rounds 677/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.7+2.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4229/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 681/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.3+1.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4247/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 683/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.6+2.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4263/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 685/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.6+2.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4278/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 687/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.8+2.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4294/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.6 (+1.6) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 691/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.4+1.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4312/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 693/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.7+1.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4327/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 695/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.9+2.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4343/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 698/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4358/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 701/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.6+1.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4377/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 703/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4392/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 705/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.3+2.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4408/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 708/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4424/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 711/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.4+1.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4442/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 713/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4458/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.2 (+2.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 716/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.4+1.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4473/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 718/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4489/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 721/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.4+1.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4507/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 723/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4522/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 726/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.5+1.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4539/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 728/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.9+1.9) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4554/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 49 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 731/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.5+1.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4573/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 733/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.6+2.6) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4588/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 736/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4604/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 738/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4619/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.2 (+2.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 740/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.5+2.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4636/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 744/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4654/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.1 (+2.1) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 746/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.3+2.3) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4670/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 748/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.5+2.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4686/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 750/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.7+2.7) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4701/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 768.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 754/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.0+2.0) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4720/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 896.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 756/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4735/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.2 (+1.2) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 758/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.4+2.4) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4751/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.4 (+1.4) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 761/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 21.8+1.8) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4766/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.3 (+1.3) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 764/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.1+2.1) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4784/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 1 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 766/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.2+2.2) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4800/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 727a CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -45 (16 meas)
+UE 727a: dlsch_rounds 768/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 22.5+2.5) RSSI -46.0, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 0
+UE 727a: ulsch_rounds 4815/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.0 (+2.0) RSSI -49.1 CCE fail 0
+UE 727a: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m
